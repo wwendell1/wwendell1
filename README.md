@@ -1,23 +1,49 @@
-## Olá, Eu Sou o Wendel Costa, Sou Estudante de Analise e Desenvolvimento de Sistemas.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ea00ff&height=120&section=header"/>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gui-loko)](https://github.com/wwendell1)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wendel-costa-ferreira/)](https://www.linkedin.com/in//)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8b008b&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Wendel+Costa;I'm+26+years+old;I+from+Brasil,+RJ;I+study+systems+development+at+UNICBE;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-## About me:
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wwendell1&show_icons=true&count_private=true&hide_border=true&title_color=6e06e9&icon_color=5805ba&text_color=ad47ac&bg_color=0d1117" alt="Wendel Costa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwendell1&layout=compact&hide_border=true&title_color=6e06e9&text_color=5805ba&bg_color=0d1117" />
+</div>
 
- Graduando em Analise Desenvolvimento de Sistemas :smile:
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wwendell1&theme=synthwave-84)
 
 
-## My specialties:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wwendell1&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
-### Languages: <img src="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=white"/>
+<div align="center">  
+<a href="www.instagram.com/wwwtavares" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div>
+  
 
-### Database: <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+### Main skills:
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
-### Others: <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 
-## What I don't know, give me a few days 😁
+### Tools:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
-[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=WendelCosta&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/wwendell1)
+### Other Knowledge:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwendell1&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/wwendell1)
+![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+  
+### Studying in this moment:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+
+ 
+  
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ea00ff&height=120&sectionfooter"/>
