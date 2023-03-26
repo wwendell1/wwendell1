@@ -1,7 +1,5 @@
 ## Olá, Eu Sou o Wendel Costa, Sou Estudante de Analise e Desenvolvimento de Sistemas.
 
-
-
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gui-loko)](https://github.com/wwendell1)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wendel-costa-ferreira/)](https://www.linkedin.com/in//)
 
