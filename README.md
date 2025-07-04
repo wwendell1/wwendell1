@@ -65,7 +65,7 @@
 ### 🌐 Connect with me
 
 <p align="center">
-  <a href="https://www.instagram.com/wwwtavares" target="_blank">
+  <a href="https://www.instagram.com/wendelfeerreira" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   &nbsp;
@@ -76,7 +76,7 @@
 
 ---
 
-### 🧩 Meus Últimos Projetos
+### 🧩Projects
 
 🚀 Confira um dos meus projetos mais recentes no LinkedIn:  
 👉 [Clique aqui para ver o post completo](https://www.linkedin.com/feed/update/urn:li:activity:7317656654152454145/)
